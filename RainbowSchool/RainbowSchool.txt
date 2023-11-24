@@ -1,0 +1,15 @@
+Ravula Sonali , 16 , Female , 400/500 ,sonali@gmail.com,Hyderabad
+Pranav , 15 ,Male , 450/500, pranav@gmail.com,Chennai
+Sam , 18 , Male ,290/300 , sam12@gmail.com,Banglore
+Manoj ,14 , Male , 300/500,mj007@gmail.com,Pune
+Alex , 13 , Male , 245/500,alex@gmail.com,Mumbai
+Henrey , 15 ,Male ,433/500,henryuk@gmail.com,Kerala 
+Micheala , 17 , Female , 377/500,mich.23@gmail.com,Kolkata
+Laurel , 15 , Female , 279/500,laurel@gmail.com,Delhi
+Conner , 16 , Female , 453/500,conner.walsh@gmail.com,Punjab
+Oliver , 13 , Male , 354/500,oli.13@gmail.com,Vizag
+Tina , 16 , Female , 299/500,tina.21@gmail.com,Coimbatore
+Gabrial , 16 , Female , 189/500,gabrial@gmail.com,Chennai
+Annalise Keating , 17 , Female , 178/500,kealing@gmail.com,Hyderabad
+Supriya , 16 , Female , 463/500,priya@gmail.com,Mumbai
+Xena , 15 , Female , 328/500,xeena@gmail.com,Assam

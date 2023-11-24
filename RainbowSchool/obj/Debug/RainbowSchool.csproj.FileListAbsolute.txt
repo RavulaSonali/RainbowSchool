@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 2\RainbowSchool\bin\Debug\RainbowSchool.exe.config
+C:\Users\Home\Desktop\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 2\RainbowSchool\bin\Debug\RainbowSchool.exe
+C:\Users\Home\Desktop\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 2\RainbowSchool\bin\Debug\RainbowSchool.pdb
+C:\Users\Home\Desktop\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 2\RainbowSchool\obj\Debug\RainbowSchool.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 2\RainbowSchool\obj\Debug\RainbowSchool.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 2\RainbowSchool\obj\Debug\RainbowSchool.exe
+C:\Users\Home\Desktop\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 2\RainbowSchool\obj\Debug\RainbowSchool.pdb
